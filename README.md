@@ -1,6 +1,6 @@
 ![PySpur](./docs/images/hero.png)
 
-<p align="center"><strong>Iterate over your agents 10x faster. AI engineers use PySpur to iterate over AI agents visually without reinventing the wheel.</strong></p>
+<p align="center"><strong>Iterate over your agents 10x faster. AI engineers use PySpur to iterate over AI agents visually without reinventing the wheel. This for will focus on hosting this setup on a website domain with free SSL</strong></p>
 
 <p align="center">
   <a href="./README.md"><img alt="README in English" src="https://img.shields.io/badge/English-blue"></a>
